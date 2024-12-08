@@ -1,0 +1,1 @@
+print("Mening ismim Adham")
